@@ -1,0 +1,13 @@
+# Server Host + Port
+host: 172.17.42.1
+port: 53
+
+# Docker Server
+docker: http://127.0.0.1:4243
+
+# Root Domain
+root: .docker.local
+
+# Aliases
+aliases:
+  db.dev: vagrant-db-1.docker.local
