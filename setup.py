@@ -20,6 +20,7 @@ setup(
     description="Docker Service DNS Server",
     author="James Cunningham",
     author_email="tetrauk@gmail.com",
+    url="https://github.com/jamescun/dockerns",
     licence="MIT",
     classifiers=[
         "Environment :: Console",
